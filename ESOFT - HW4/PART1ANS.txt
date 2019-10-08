@@ -1,0 +1,3 @@
+1.) I downloaded a system called Brigadier. It is a command parcer that was made for minecraft that has been made open source under the MIT licence.
+2.) I allows you to set up a command structure and catch command line errors.
+3.) This system has 7422 lines of code. I used a tool call cloc that counted this for me.
